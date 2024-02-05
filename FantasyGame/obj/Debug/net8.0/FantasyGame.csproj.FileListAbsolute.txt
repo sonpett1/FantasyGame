@@ -1,0 +1,14 @@
+C:\GAprojects\FantasyGame\FantasyGame\bin\Debug\net8.0\FantasyGame.exe
+C:\GAprojects\FantasyGame\FantasyGame\bin\Debug\net8.0\FantasyGame.deps.json
+C:\GAprojects\FantasyGame\FantasyGame\bin\Debug\net8.0\FantasyGame.runtimeconfig.json
+C:\GAprojects\FantasyGame\FantasyGame\bin\Debug\net8.0\FantasyGame.dll
+C:\GAprojects\FantasyGame\FantasyGame\bin\Debug\net8.0\FantasyGame.pdb
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.AssemblyInfoInputs.cache
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.AssemblyInfo.cs
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.csproj.CoreCompileInputs.cache
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.dll
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\refint\FantasyGame.dll
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.pdb
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\FantasyGame.genruntimeconfig.cache
+C:\GAprojects\FantasyGame\FantasyGame\obj\Debug\net8.0\ref\FantasyGame.dll
